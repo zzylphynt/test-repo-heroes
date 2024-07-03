@@ -1,7 +1,9 @@
-# Objetivos de la repositorio
+# Repository Objective
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+This project is responsible for managing the Justice League planes.
 
 
-## Notas
-Pueden hacer lo que quieran...
+## Notes
+Do whatever u want...
+###Updated from GitHub
+this is a completely edited post from GitHub
